@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Security.Cryptography;
-using System.Text;
 using System.Windows.Forms;
 using BitcoinBrainWalletSweeper.Properties;
 
@@ -57,10 +51,12 @@ namespace BitcoinBrainWalletSweeper
                          }
                            
                      }
-                     var crypto = new Crypto();
+                     //var crypto = new Org.BouncyCastle.Crypto();
                      foreach (var row in dataset.Tables[tablename].Rows)
                      {
                          var privateKeyHex = crypto.ComputeHash(row.ToString(), new SHA256CryptoServiceProvider());
+                         
+
                      }
                      if (dgvResults != null)
                         if (dataset.Tables != null) dgvResults.DataSource = dataset.Tables[0].DefaultView; // Populate datagrid
