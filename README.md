@@ -23,3 +23,5 @@ As a result of this I have been creating a system to import a CSV containing the
 Please don't use this for anything bad, it's not my fault if you do.
 
 Bitcoin Donations go to: [11kbQe1K6a6JeLwedMLikC4XrmnBCQ8eo](bitcoin:11kbQe1K6a6JeLwedMLikC4XrmnBCQ8eo)
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/BitcoinBrainWalletSweeper.png?branch=master)](https://travis-ci.org/PartTimeLegend/BitcoinBrainWalletSweeper)
