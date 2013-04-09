@@ -1,0 +1,12 @@
+language: c
+
+install:
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
+
+script:
+  - xbuild BitcoinBrainWalletSweeper/BitcoinBrainWalletSweeper.sln
+notifications:
+  irc: "irc.freenode.org#parttimelegend"
+email:
+    on_success: never
+    on_failure: never
