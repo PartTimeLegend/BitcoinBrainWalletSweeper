@@ -24,6 +24,7 @@ Please don't use this for anything bad, it's not my fault if you do.
 
 Bitcoin Donations go to: [11kbQe1K6a6JeLwedMLikC4XrmnBCQ8eo](bitcoin:11kbQe1K6a6JeLwedMLikC4XrmnBCQ8eo)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40695ad5b2cd4183a20b1083a51ddb04)](https://www.codacy.com/app/PartTimeLegend/BitcoinBrainWalletSweeper?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/BitcoinBrainWalletSweeper&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/PartTimeLegend/BitcoinBrainWalletSweeper.png?branch=master)](https://travis-ci.org/PartTimeLegend/BitcoinBrainWalletSweeper)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/BitcoinBrainWalletSweeper&title=Bitcoin Brain Wallet Address Sweeper&language=&tags=github&category=software) 
